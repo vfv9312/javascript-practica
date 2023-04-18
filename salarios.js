@@ -1,7 +1,7 @@
-const salarios = [];
+const salarios = [];//arreglo vacio que contentra varios objetos
 salarios.push({
   name: 'Juanita',
-  trabajos: [
+  trabajos: [ // trabajos es un arreglo que esta en el objeto
     { year: 2018, empresa: 'Freelance', salario: 250, },
     { year: 2019, empresa: 'Freelance', salario: 250, },
     { year: 2020, empresa: 'Industrias Mokepon', salario: 850, },
